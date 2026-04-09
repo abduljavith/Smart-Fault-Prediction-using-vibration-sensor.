@@ -1,1 +1,2 @@
 # Smart-Fault-Prediction-using-vibration-sensor.
+
